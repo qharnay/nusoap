@@ -17,5 +17,8 @@
         "lib/"
       ]
     },
+    "replace": {
+        "wooxo/nusoap":"0.9.6"
+    },
     "minimum-stability": "stable"
 }
