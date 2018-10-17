@@ -1,17 +1,17 @@
 {
-    "name": "nusphere/nusoap",
-    "version": "0.9.6",
+    "name": "qharnay/nusoap",
+    "version": "0.1",
     "type": "library",
-    "description": "NuSoap Repository for Composer with some fixes",
+    "description": "NuSoap Repository for Composer with PHP7 suport, forked from nusphere/nusoap",
     "authors": [
         {
-            "name": "Wooxo SA",
-            "email": "dev@wooxo.fr"
+            "name": "Quentin Harnay",
+            "email": "qharnay@sellsy.com"
         }
     ],
     "license": "MIT",
     "keywords": ["nusoap", "php", "composer"],
-    "homepage": "https://github.com/wooxo/nusoap",
+    "homepage": "https://github.com/qharnay/nusoap",
     "autoload": {
       "classmap": [
         "lib/"
