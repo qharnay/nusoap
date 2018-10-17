@@ -1,8 +1,8 @@
 {
     "name": "qharnay/nusoap",
-    "version": "0.1",
+    "version": "0.9.7",
     "type": "library",
-    "description": "NuSoap Repository for Composer with PHP7 suport, forked from nusphere/nusoap",
+    "description": "NuSoap Repository for Composer with PHP7 support, forked from nusphere/nusoap",
     "authors": [
         {
             "name": "Quentin Harnay",
